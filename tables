@@ -1,0 +1,14 @@
+<body>
+<table>
+ <tr>
+  <th>some info </th>
+  <th>some info </th>  
+  <th>some info </th>
+ </tr>
+ <tr>
+  <td>john</td>  
+  <td>peter</td>
+  <td>sara</td>
+ </tr>
+</table>
+</body>
